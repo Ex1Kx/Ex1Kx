@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **GameMaker**
 
-- 💬 Ask me about **Angular , And... Cutie Cats :3**
-
 - 📫 How to contact me **ex1kxdevs@gmail.com**
 
-- ⚡ Fun fact **I Hate Python :D**
+- 🍪 Do you want **a cookie? :3**
+
+- ⚡ Fun fact **Lumity Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

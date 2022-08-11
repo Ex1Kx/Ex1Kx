@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://linktr.ee/ex1)
-<h1 align="center">Hi! 🥰, I'm Julián Lozada (Ex1)</h1>
+<h1 align="center">Hi! 🥰, I'm Julián Lozada (Æ✗1)</h1>
 <h3 align="center">A Passionate Junior FullStack Developer From Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/7d/25/f47d252b570bca4204965f4ad1d3b7af.gif">
 

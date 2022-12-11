@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ex1kx&label=Profile%20views&color=0e75b6&style=flat" alt="Ex1" /> </p>
 
+- 😱 I’m **MARDUK STUDIO CEO**
+
 - 🔭 I’m currently working on **NYX**
 
 - 🌱 I’m currently learning **GameMaker**

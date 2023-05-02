@@ -1,25 +1,25 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://linktr.ee/ex1)
 <h1 align="center">Hi! 🥰, I'm Julián Lozada (Æ✗1)</h1>
-<h3 align="center">A Passionate Junior FullStack Developer From Colombia</h3>
+<h3 align="center">A Passionate Junior FullStack Developer & Future Touristic Guide From Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/7d/25/f47d252b570bca4204965f4ad1d3b7af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ex1kx&label=Profile%20views&color=0e75b6&style=flat" alt="Ex1" /> </p>
 
 - 😱 I’m **MARDUK STUDIO CEO**
 
-- 🔭 I’m currently working on **NYX**
+- 🔭 I’m currently working on **Runnerverse**
 
-- 🌱 I’m currently learning **GameMaker**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to contact me **ex1kxdevs@gmail.com**
 
-- 🍪 Do you want **a cookie? :3**
+- 🍪 Do you want **a hug? :3**
 
-- ⚡ Fun fact **Lumity Lover**
+- ⚡ Fun fact **I'm cry every night ;D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/NixEnTeyvat" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996266165951287316/f.png" alt="Nix en Teyvat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MardukStudio" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996266165951287316/f.png" alt="Marduk Studio" height="30" width="40" /></a>
 <a href="https://twitter.com/Ex1Kx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ex1Kx" height="30" width="40" /></a>
 <a href="https://www.instagram.com/julian_lzvl/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996265686760423464/i.png" alt="julian_lzvl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/Ex1Kx" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996264636301189180/y.png" alt="Ex1" height="30" width="40" /></a>

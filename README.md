@@ -7,7 +7,7 @@
 
 - 😱 I’m **MARDUK STUDIO CEO**
 
-- 🔭 I’m currently working on **Runnerverse**
+- 🔭 I’m currently working on **Exodus**
 
 - 🌱 I’m currently learning **Unity**
 

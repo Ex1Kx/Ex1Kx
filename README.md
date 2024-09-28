@@ -1,11 +1,11 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://linktr.ee/ex1)
 <h1 align="center">Hi! 🥰, I'm Julián Lozada (Æ✗1)</h1>
-<h3 align="center">A Passionate Junior FullStack Developer & Future Touristic Guide From Colombia</h3>
+<h3 align="center">Passionate Junior FullStack Developer and Nursing Assistant Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/7d/25/f47d252b570bca4204965f4ad1d3b7af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ex1kx&label=Profile%20views&color=0e75b6&style=flat" alt="Ex1" /> </p>
 
-- 😱 I’m **MARDUK STUDIO CEO**
+- 😱 I’m **Evdos Galaxy & Æx1  CEO**
 
 - 🔭 I’m currently working on **Exodus**
 
@@ -14,8 +14,6 @@
 - 📫 How to contact me **ex1kxdevs@gmail.com**
 
 - 🍪 Do you want **a hug? :3**
-
-- ⚡ Fun fact **I'm cry every night ;D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

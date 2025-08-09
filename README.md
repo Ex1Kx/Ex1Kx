@@ -7,7 +7,7 @@
 
 - 😱 I’m **Evdos Galaxy & Æx1  CEO**
 
-- 🔭 I’m currently working on **Exodus**
+- 🔭 I’m currently working on **SiNDICaTE**
 
 - 🌱 I’m currently learning **Unity**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.facebook.com/MardukStudio" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996266165951287316/f.png" alt="Marduk Studio" height="30" width="40" /></a>
 <a href="https://twitter.com/Ex1Kx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ex1Kx" height="30" width="40" /></a>
-<a href="https://www.instagram.com/julian_lzvl/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996265686760423464/i.png" alt="julian_lzvl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/julianlozadav/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996265686760423464/i.png" alt="julian_lzvl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/Ex1Kx" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996264636301189180/y.png" alt="Ex1" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/ex1kx" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996263993628971048/a.png" alt="Ex1Kx" height="30" width="40" /></a><a href="https://www.reddit.com/user/Ex1Kx" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/925024576210083882/996263230257250334/ola.png" alt="Ex1Kx" height="30" width="40" /></a>
 <a href="https://discord.gg/rjXsfEmEBW" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-8-1.png" alt="Nix En Discord" height="30" width="40" /></a>
